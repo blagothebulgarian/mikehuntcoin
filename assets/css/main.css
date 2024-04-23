@@ -188,6 +188,10 @@ input, select, textarea {
   		color: #FE66C4;
 	}
 
+	#myImg {
+  		height: 370px;
+		}
+
 /* Container */
 
 	.container {
